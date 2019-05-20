@@ -1,2 +1,2 @@
-# Amino.Run-Private
-Amino.Run material for Huawei-internal only.
+# Amino.Run-Docs
+Amino.Run Documentation staging repo.
